@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1, 
+        "name": "Г/Ц Блинчики с мясом вес, Россия", 
+        "price": 50.50,
+        "price_with_card": 40.40,
+        "currency": "₽",
+        "img": "https://th.bing.com/th/id/R.bd2574c2d204067f977940d79c5ee579?rik=CydB3voAhi05Eg&riu=http%3a%2f%2fimg.povar.ru%2fuploads%2fa3%2fa6%2f92%2f31%2fblinchiki_s_myasom-33517.jpg&ehk=xQxDdpSZ5NrB6jL8Xaj1dClGYhNORtU5U3M9S%2fgUnHA%3d&risl=&pid=ImgRaw&r=0",
+        "category": "Акции",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26iX4CTrzk43Fju1gJATHdV3W2lsTchtnSQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAHaU5eYzIl1Bos1_mCsRnvoNbKE-BpntHfg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLOw1Qm8YD7_7FjVEqJAW4xEFH9IgVjsGWiw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29TKPXXAgyNuwF9x5xS552P6haTA9qS_EGg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_2fPwfJzEliQ8fZqAO4Gona82wPuPoHEz3Q&s"
+        ],
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg",
+        "discount": "-50%" 
+    },
+    {
+        "id": 2, 
+        "name": "Молоко ПРОСТОКВАШИНО паст. питьевое цельное отборное...", 
+        "price": 50.50,
+        "price_with_card": 40.40,
+        "currency": "₽",
+        "img": "https://th.bing.com/th/id/R.822303c7b9e29f89078143c4bf223eec?rik=00syf5lZRvfi1w&pid=ImgRaw&r=0",
+        "category": "Акции",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_iMMC8TTlxfHFLrtbThx35ENA-OmhsQULw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC2wnFZQqIDcRgyEXCyyK7apNfYGU3xduPOQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpMGn2OiGQ_x2L-IASsfYg_LDL0FtEQcydA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29TKPXXAgyNuwF9x5xS552P6haTA9qS_EGg&s",
+            "https://komandor-img.storage.yandexcloud.net/1000/141052_2.jpg?v=1756267254"
+        ],
+        "rating": "https://2.bp.blogspot.com/-_9QVbGMdzWk/Vbxv5HAuhNI/AAAAAAAABKg/gTwmIMsYnuU/s1600/06.%2BRating-Tres-estrelas.png",
+        "discount": "-50%" 
+    },
+    {
+        "id": 3, 
+        "name": "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...", 
+        "price": 50.50,
+        "price_with_card": 40.40,
+        "currency": "₽",
+        "img": "https://tse1.explicit.bing.net/th/id/OIP.RrikYRdKFGFKscm0hDtwhgHaHa?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "category": "Акции",
+        "images": [
+            "https://media.vprok.ru/products/x700/dd/km/qpyv7ovrxabita4epaa7hfxjel3wkmdd.jpeg",
+            "https://tomall.ru/allmarket/foto/1755/457.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmu7OU3u37ZS2RlLXxTWSSSC1hiwTrDoRHfgVpp4FqxaZoO-lXsq6gD6hRIpSLdEm6Fc&usqp=CAU",
+            "https://www.magazinnoff.ru/images/tovary/954759.webp",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuUAiWmoYpWL33qILYrDNUwYp7v9HySgViww&s"
+        ],
+        "rating": "https://th.bing.com/th/id/R.46e47e0e12b296d42130293936e4a464?rik=hYQ%2b%2fmix%2fEB4%2bQ&riu=http%3a%2f%2fclipart-library.com%2fimgs%2fgceoXx7gi.png&ehk=bqfSs1APoxsd8Bzk%2f%2b7pOY%2fVQiUvSuvEDFD26bdhaFc%3d&risl=&pid=ImgRaw&r=0",
+        "discount": "-50%" 
+    },
+    {
+        "id": 4, 
+        "name": "Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...",
+        "price": 50.50,
+        "price_with_card": 40.40,
+        "currency": "₽",
+        "img": "https://tse1.explicit.bing.net/th/id/OIP.iMfLG5P3IputJTyY4OFxlQHaKd?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "category": "Акции",
+        "rating": "https://cdn.prod.website-files.com/58d684124f3644b01d649b26/609aa24b372bb6717b0b0d30_608ace196c1fdf8a2ea9e084_reviews-stars.jpeg",
+        "discount": "-50%" 
+    },
+    {
+        "id": 5, 
+        "name": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»", 
+        "price": 599.99,
+        "currency": "₽",
+        "img": "https://th.bing.com/th/id/R.8c2437d8521a3b5f89fcc2f12a95bea2?rik=EjlTsR50ul4yuQ&riu=http%3a%2f%2fcdn.skidka-msk.ru%2fimgs%2fprodacts%2fsourse%2f95585%2f95585379_kolbasa-cherkizovo-salchichon-syirokopchenaya-0-6-9kg.jpg&ehk=WkDtiwEqxPn7F0raNQ%2bCrf28yFPHzfKKjeDP7Q%2fT98M%3d&risl=&pid=ImgRaw&r=0",
+        "category": "Новинки",
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg"
+    },
+    {
+        "id": 6, 
+        "name": "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскан...", 
+        "price": 44.50,
+        "currency": "₽",
+        "img": "https://tse1.explicit.bing.net/th/id/OIP.RrikYRdKFGFKscm0hDtwhgHaHa?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "category": "Новинки",
+        "rating": "https://th.bing.com/th/id/R.46e47e0e12b296d42130293936e4a464?rik=hYQ%2b%2fmix%2fEB4%2bQ&riu=http%3a%2f%2fclipart-library.com%2fimgs%2fgceoXx7gi.png&ehk=bqfSs1APoxsd8Bzk%2f%2b7pOY%2fVQiUvSuvEDFD26bdhaFc%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 7, 
+        "name": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»", 
+        "price": 159.99,
+        "currency": "₽",
+        "img": "https://tse1.explicit.bing.net/th/id/OIP.iMfLG5P3IputJTyY4OFxlQHaKd?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "category": "Новинки",
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg"
+    },
+    {
+        "id": 8, 
+        "name": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»", 
+        "price": 49.39,
+        "currency": "₽",
+        "img": "https://th.bing.com/th/id/R.822303c7b9e29f89078143c4bf223eec?rik=00syf5lZRvfi1w&pid=ImgRaw&r=0",
+        "category": "Новинки",
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg"
+    }, 
+    {"id": 9, 
+        "name": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»", 
+        "price": 77.99,
+        "currency": "₽",
+        "img": "https://tse1.explicit.bing.net/th/id/OIP.L4R0dAaF--M1oZLdujQ0UQHaE8?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "category": "Покупали раньше",
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg"
+    },
+    {
+        "id": 10, 
+        "name": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»", 
+        "price": 159.99,
+        "currency": "₽",
+        "img": "https://tse1.explicit.bing.net/th/id/OIP.iMfLG5P3IputJTyY4OFxlQHaKd?r=0&cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "category": "Покупали раньше",
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg"
+    },
+    {
+        "id": 11, 
+        "name": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»", 
+        "price": 599.99,
+        "currency": "₽",
+        "img": "https://th.bing.com/th/id/R.8c2437d8521a3b5f89fcc2f12a95bea2?rik=EjlTsR50ul4yuQ&riu=http%3a%2f%2fcdn.skidka-msk.ru%2fimgs%2fprodacts%2fsourse%2f95585%2f95585379_kolbasa-cherkizovo-salchichon-syirokopchenaya-0-6-9kg.jpg&ehk=WkDtiwEqxPn7F0raNQ%2bCrf28yFPHzfKKjeDP7Q%2fT98M%3d&risl=&pid=ImgRaw&r=0",
+        "category": "Покупали раньше",
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg"
+    },
+    {
+        "id": 12, 
+        "name": "Комбайн КЗС-1218 «ДЕСНА-ПОЛЕСЬЕ GS12»", 
+        "price": 49.34,
+        "currency": "₽",
+        "img": "https://th.bing.com/th/id/R.822303c7b9e29f89078143c4bf223eec?rik=00syf5lZRvfi1w&pid=ImgRaw&r=0",
+        "category": "Покупали раньше",
+        "rating": "https://zpatky.files.wordpress.com/2019/08/hvezdy-2.jpg"
+    }
+
+]
